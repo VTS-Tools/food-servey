@@ -1,0 +1,526 @@
+[
+    {
+        "key": "ho-chi-minh",
+        "value": 16639
+    },
+    {
+        "key": "ha-noi",
+        "value": 6305
+    },
+    {
+        "key": "da-nang",
+        "value": 2478
+    },
+    {
+        "key": "can-tho",
+        "value": 1792
+    },
+    {
+        "key": "khanh-hoa",
+        "value": 1108
+    },
+    {
+        "key": "vung-tau",
+        "value": 656
+    },
+    {
+        "key": "hai-phong",
+        "value": 1208
+    },
+    {
+        "key": "binh-thuan",
+        "value": 413
+    },
+    {
+        "key": "lam-dong",
+        "value": 1020
+    },
+    {
+        "key": "dong-nai",
+        "value": 1304
+    },
+    {
+        "key": "quang-ninh",
+        "value": 590
+    },
+    {
+        "key": "hue",
+        "value": 1506
+    },
+    {
+        "key": "binh-duong",
+        "value": 1094
+    },
+    {
+        "key": "hai-duong",
+        "value": 158
+    },
+    {
+        "key": "ninh-thuan",
+        "value": 111
+    },
+    {
+        "key": "nam-dinh",
+        "value": 175
+    },
+    {
+        "key": "tien-giang",
+        "value": 567
+    },
+    {
+        "key": "phu-quoc",
+        "value": 88
+    },
+    {
+        "key": "kon-tum",
+        "value": 119
+    },
+    {
+        "key": "quang-nam",
+        "value": 774
+    },
+    {
+        "key": "lao-cai",
+        "value": 96
+    },
+    {
+        "key": "nghe-an",
+        "value": 567
+    },
+    {
+        "key": "long-an",
+        "value": 381
+    },
+    {
+        "key": "binh-dinh",
+        "value": 920
+    },
+    {
+        "key": "phu-yen",
+        "value": 420
+    },
+    {
+        "key": "an-giang",
+        "value": 434
+    },
+    {
+        "key": "dak-lak",
+        "value": 535
+    },
+    {
+        "key": "thanh-hoa",
+        "value": 170
+    },
+    {
+        "key": "kien-giang",
+        "value": 412
+    },
+    {
+        "key": "quang-ngai",
+        "value": 397
+    },
+    {
+        "key": "gia-lai",
+        "value": 436
+    },
+    {
+        "key": "tay-ninh",
+        "value": 554
+    },
+    {
+        "key": "vinh-long",
+        "value": 346
+    },
+    {
+        "key": "ca-mau",
+        "value": 369
+    },
+    {
+        "key": "dong-thap",
+        "value": 279
+    },
+    {
+        "key": "quang-binh",
+        "value": 156
+    },
+    {
+        "key": "ben-tre",
+        "value": 241
+    },
+    {
+        "key": "quang-tri",
+        "value": 235
+    },
+    {
+        "key": "binh-phuoc",
+        "value": 393
+    },
+    {
+        "key": "soc-trang",
+        "value": 283
+    },
+    {
+        "key": "vinh-phuc",
+        "value": 109
+    },
+    {
+        "key": "tra-vinh",
+        "value": 269
+    },
+    {
+        "key": "bac-ninh",
+        "value": 199
+    },
+    {
+        "key": "ninh-binh",
+        "value": 67
+    },
+    {
+        "key": "bac-lieu",
+        "value": 281
+    },
+    {
+        "key": "thai-nguyen",
+        "value": 153
+    },
+    {
+        "key": "ha-tinh",
+        "value": 138
+    },
+    {
+        "key": "bac-giang",
+        "value": 92
+    },
+    {
+        "key": "hau-giang",
+        "value": 245
+    },
+    {
+        "key": "phu-tho",
+        "value": 91
+    },
+    {
+        "key": "thai-binh",
+        "value": 52
+    },
+    {
+        "key": "son-la",
+        "value": 45
+    },
+    {
+        "key": "lang-son",
+        "value": 61
+    },
+    {
+        "key": "hoa-binh",
+        "value": 32
+    },
+    {
+        "key": "hung-yen",
+        "value": 93
+    },
+    {
+        "key": "ha-giang",
+        "value": 42
+    },
+    {
+        "key": "dak-nong",
+        "value": 130
+    },
+    {
+        "key": "tuyen-quang",
+        "value": 45
+    },
+    {
+        "key": "yen-bai",
+        "value": 41
+    },
+    {
+        "key": "ha-nam",
+        "value": 32
+    },
+    {
+        "key": "dien-bien",
+        "value": 24
+    },
+    {
+        "key": "cao-bang",
+        "value": 29
+    },
+    {
+        "key": "lai-chau",
+        "value": 9
+    },
+    {
+        "key": "bac-kan",
+        "value": 15
+    },
+    {
+        "key": "bangkok",
+        "value": 48
+    },
+    {
+        "key": "nonthaburi",
+        "value": 0
+    },
+    {
+        "key": "nakhon-ratchasima",
+        "value": 1
+    },
+    {
+        "key": "prachuap-khiri-khan",
+        "value": 0
+    },
+    {
+        "key": "samut-prakan",
+        "value": 0
+    },
+    {
+        "key": "Krabi",
+        "value": 0
+    },
+    {
+        "key": "Chachoengsao",
+        "value": 0
+    },
+    {
+        "key": "mae-hong-son",
+        "value": 0
+    },
+    {
+        "key": "pattaya",
+        "value": 1
+    },
+    {
+        "key": "chiangmai",
+        "value": 4
+    },
+    {
+        "key": "phuket",
+        "value": 0
+    },
+    {
+        "key": "jakarta",
+        "value": 28
+    },
+    {
+        "key": "bali",
+        "value": 0
+    },
+    {
+        "key": "Yogyakarta",
+        "value": 0
+    },
+    {
+        "key": "bandung",
+        "value": 0
+    },
+    {
+        "key": "taipei",
+        "value": 5
+    },
+    {
+        "key": "Chiayi-county",
+        "value": 0
+    },
+    {
+        "key": "kaohsiung-city",
+        "value": 1
+    },
+    {
+        "key": "Hualien-county",
+        "value": 0
+    },
+    {
+        "key": "Pingtung-county",
+        "value": 0
+    },
+    {
+        "key": "taoyuan-city",
+        "value": 0
+    },
+    {
+        "key": "Taichung-city",
+        "value": 0
+    },
+    {
+        "key": "phnom-penh",
+        "value": 5
+    },
+    {
+        "key": "siem-reap",
+        "value": 2
+    },
+    {
+        "key": "kampot",
+        "value": 0
+    },
+    {
+        "key": "kampong-cham",
+        "value": 0
+    },
+    {
+        "key": "kampong-speu",
+        "value": 0
+    },
+    {
+        "key": "kampong-thom",
+        "value": 0
+    },
+    {
+        "key": "Koh-kong",
+        "value": 0
+    },
+    {
+        "key": "preah-sihanouk",
+        "value": 3
+    },
+    {
+        "key": "svay-rieng",
+        "value": 0
+    },
+    {
+        "key": "prey-veng",
+        "value": 0
+    },
+    {
+        "key": "krong-bavet",
+        "value": 1
+    },
+    {
+        "key": "Malacca",
+        "value": 31
+    },
+    {
+        "key": "Johor",
+        "value": 1
+    },
+    {
+        "key": "Selangor",
+        "value": 2
+    },
+    {
+        "key": "Kedah",
+        "value": 0
+    },
+    {
+        "key": "Pahang",
+        "value": 0
+    },
+    {
+        "key": "Penang",
+        "value": 0
+    },
+    {
+        "key": "Terengganu",
+        "value": 0
+    },
+    {
+        "key": "kuala-lumpur",
+        "value": 14
+    },
+    {
+        "key": "putra-jaya",
+        "value": 0
+    },
+    {
+        "key": "tokyo",
+        "value": 3
+    },
+    {
+        "key": "kyoto",
+        "value": 0
+    },
+    {
+        "key": "osaka",
+        "value": 0
+    },
+    {
+        "key": "Kyushu",
+        "value": 0
+    },
+    {
+        "key": "yangon",
+        "value": 7
+    },
+    {
+        "key": "Mandalay",
+        "value": 0
+    },
+    {
+        "key": "Sagaing",
+        "value": 0
+    },
+    {
+        "key": "Shan",
+        "value": 0
+    },
+    {
+        "key": "metro-manila",
+        "value": 2
+    },
+    {
+        "key": "quezon",
+        "value": 3
+    },
+    {
+        "key": "New%20South%20Wales",
+        "value": 0
+    },
+    {
+        "key": "Victoria",
+        "value": 1
+    },
+    {
+        "key": "Queensland",
+        "value": 0
+    },
+    {
+        "key": "South%20Australia",
+        "value": 0
+    },
+    {
+        "key": "Western%20Australia",
+        "value": 3
+    },
+    {
+        "key": "california",
+        "value": 0
+    },
+    {
+        "key": "washington",
+        "value": 0
+    },
+    {
+        "key": "new-york",
+        "value": 0
+    },
+    {
+        "key": "ontario",
+        "value": 1
+    },
+    {
+        "key": "Gyeongqi-Do",
+        "value": 0
+    },
+    {
+        "key": "seoul",
+        "value": 1
+    },
+    {
+        "key": "vientiane",
+        "value": 1
+    },
+    {
+        "key": "guangdong",
+        "value": 4
+    },
+    {
+        "key": "singapore",
+        "value": 18
+    },
+    {
+        "key": "hong-kong",
+        "value": 7
+    }
+]

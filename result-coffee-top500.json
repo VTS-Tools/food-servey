@@ -1,0 +1,54 @@
+[
+    {
+        "key": "ho-chi-minh",
+        "value": 20769
+    },
+    {
+        "key": "ha-noi",
+        "value": 7435
+    },
+    {
+        "key": "da-nang",
+        "value": 2695
+    },
+    {
+        "key": "can-tho",
+        "value": 2167
+    },
+    {
+        "key": "khanh-hoa",
+        "value": 1275
+    },
+    {
+        "key": "vung-tau",
+        "value": 842
+    },
+    {
+        "key": "hai-phong",
+        "value": 1445
+    },
+    {
+        "key": "lam-dong",
+        "value": 1136
+    },
+    {
+        "key": "dong-nai",
+        "value": 1729
+    },
+    {
+        "key": "hue",
+        "value": 1598
+    },
+    {
+        "key": "binh-duong",
+        "value": 1400
+    },
+    {
+        "key": "quang-nam",
+        "value": 840
+    },
+    {
+        "key": "binh-dinh",
+        "value": 1044
+    }
+]
